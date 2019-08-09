@@ -228,4 +228,6 @@ source "drivers/esoc/Kconfig"
 source "drivers/nfc/pn553-i2c/Kconfig"
 source "drivers/nfc/p73-spi/Kconfig"
 
+source "techpack/data/drivers/Kconfig"
+
 endmenu
