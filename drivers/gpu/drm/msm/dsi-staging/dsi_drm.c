@@ -34,7 +34,7 @@
 #ifdef VENDOR_EDIT
 int lcd_running_tag = -1;
 
-int get_lcd_status(){
+int get_lcd_status(void){
 	return lcd_running_tag;
 }
 #endif

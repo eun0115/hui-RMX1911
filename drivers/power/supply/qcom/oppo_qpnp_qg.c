@@ -43,7 +43,7 @@
 #include "qg-defs.h"
 #ifdef VENDOR_EDIT
 #include <linux/rtc.h>
-#include "../../../../kernel/msm-4.14/drivers/power/oppo/oppo_gauge.h"
+#include "../drivers/power/oppo/oppo_gauge.h"
 #include <soc/oppo/device_info.h>
 #endif
 

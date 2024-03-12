@@ -97,7 +97,7 @@
 #include <soc/qcom/boot_stats.h>
 
 #ifdef VENDOR_EDIT
-#include "../../../../../vendor/oppo/oppo_phoenix/kernel/oppo_phoenix/oppo_phoenix.h"
+#include "../drivers/soc/oppo/oppo_phoenix/oppo_phoenix.h"
 #endif  //VENDOR_EDIT
 
 static int kernel_init(void *);
